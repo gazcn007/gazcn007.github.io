@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9165],{59024:e=>{e.exports=JSON.parse('{"label":"JAMScript","permalink":"/blog/tags/jam-script","allTagsPath":"/blog/tags","count":1}')}}]);
