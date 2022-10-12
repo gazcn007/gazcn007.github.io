@@ -4,16 +4,10 @@
         <title>Carl Liu Blog</title>
         <link>https://carlrocks.com/blog</link>
         <description>Carl Liu Blog</description>
-        <lastBuildDate>Tue, 30 Aug 2022 05:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[2022/VR/VR]]></title>
-            <link>https://carlrocks.com/blog/2022/VR/VR</link>
-            <guid>/2022/VR/VR</guid>
-            <pubDate>Tue, 30 Aug 2022 05:51:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[How to Get The Right Information]]></title>
             <link>https://carlrocks.com/blog/2022/Information_Hygiene</link>
