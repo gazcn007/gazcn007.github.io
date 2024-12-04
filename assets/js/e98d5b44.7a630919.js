@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[7960],{15502:s=>{s.exports=JSON.parse('{"label":"Serverless","permalink":"/blog/tags/serverless","allTagsPath":"/blog/tags","count":1}')}}]);

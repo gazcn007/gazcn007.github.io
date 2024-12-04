@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[7685],{74744:s=>{s.exports=JSON.parse('{"label":"System Design","permalink":"/blog/tags/system-design","allTagsPath":"/blog/tags","count":1}')}}]);

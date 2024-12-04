@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[9128],{48782:a=>{a.exports=JSON.parse('{"label":"ERP","permalink":"/blog/tags/erp","allTagsPath":"/blog/tags","count":1}')}}]);

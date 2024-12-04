@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[9165],{59024:a=>{a.exports=JSON.parse('{"label":"JAMScript","permalink":"/blog/tags/jam-script","allTagsPath":"/blog/tags","count":1}')}}]);
