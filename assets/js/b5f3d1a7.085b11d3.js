@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[6263],{55885:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/erp","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

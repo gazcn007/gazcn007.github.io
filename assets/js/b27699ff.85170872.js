@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[7886],{34121:a=>{a.exports=JSON.parse('{"label":"IoT","permalink":"/blog/tags/io-t","allTagsPath":"/blog/tags","count":2}')}}]);
