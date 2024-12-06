@@ -4,10 +4,18 @@
         <title>Carl’s Tech Journal Blog</title>
         <link>https://carlrocks.com/blog</link>
         <description>Carl’s Tech Journal Blog</description>
-        <lastBuildDate>Mon, 23 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 06:51:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[2024/AIPredictions]]></title>
+            <link>https://carlrocks.com/blog/2024/AIPredictions</link>
+            <guid>https://carlrocks.com/blog/2024/AIPredictions</guid>
+            <pubDate>Fri, 06 Dec 2024 06:51:28 GMT</pubDate>
+            <description><![CDATA[Goal]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="goal">Goal<a href="#goal" class="hash-link" aria-label="Direct link to Goal" title="Direct link to Goal">​</a></h2><p>Here we want to share some of our anecdotal observations of what’s happening in the internet market post ChatGPT. We want to discuss some of the market disruption that we have observed and our predictions for the future.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="long-tail-search-market-disruption">Long tail search market disruption<a href="#long-tail-search-market-disruption" class="hash-link" aria-label="Direct link to Long tail search market disruption" title="Direct link to Long tail search market disruption">​</a></h2><p>There are so many companies like CourseHero, StackOverflow, reddit, wikipedia, Quizlet, and Chegg that used to receive lots of organic traffic from Google. However, we have noticed these websites' traffic has gone down since the inception of ChatGPT. See this article on stackoverflow showing 14% traffic loss in 2023. Also see this article on Chegg stock. Our hypothesis is that lots of younger users who have adopted ChatGPT and other AI assistant tools visit that website to get answers to their questions as opposed to Google in order to see links.</p><p>We argue that Google traffic has gone down for these niche long tail searches. One anecdotal evidence for this is this article explaining the Code Red situation at Google. Also Google released an AI Overview for these niche searches in May. Note that they don’t really make ad revenue from this segment.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="some-predictions">Some Predictions<a href="#some-predictions" class="hash-link" aria-label="Direct link to Some Predictions" title="Direct link to Some Predictions">​</a></h2><ul><li>LLMs are getting better and they will eat more queries/questions over time. That means all apps leveraging AI will keep growing and the Google market will keep shrinking. Innovator's dilemma!</li><li>Lots of internet companies have to think about what the internet is going to look like in the future otherwise they will disappear in 3 to 5 years.</li><li>Companies like OpenAI and Perplexity need to figure out how to turn this to a scalable business model. They might fail but regardless LLM which is essentially a compressed internet will not go anywhere. For example there might be a chance that a new company will figure out the business model outside of the existing AI companies.</li><li>Post ChatGPT the distribution channels are going to be different!</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Why Liberal Arts is Important to Engineers]]></title>
             <link>https://carlrocks.com/blog/2023/LiberalArts</link>
