@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[2467],{92827:e=>{e.exports=JSON.parse('{"label":"web development","permalink":"/blog/tags/web-development","allTagsPath":"/blog/tags","count":1}')}}]);
