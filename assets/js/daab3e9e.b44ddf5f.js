@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[1540],{35803:t=>{t.exports=JSON.parse('{"title":"Startup","description":"All about startup skills","slug":"/category/startup","permalink":"/docs/category/startup","navigation":{"next":{"title":"Startup Roadmap","permalink":"/docs/Product/Startup/ARoadmap/"}}}')}}]);
