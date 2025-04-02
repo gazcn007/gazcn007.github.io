@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[7350],{51811:s=>{s.exports=JSON.parse('{"label":"Business Intelligence","permalink":"/blog/tags/business-intelligence","allTagsPath":"/blog/tags","count":3}')}}]);

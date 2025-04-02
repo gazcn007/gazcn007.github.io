@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[4653],{91564:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/os","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

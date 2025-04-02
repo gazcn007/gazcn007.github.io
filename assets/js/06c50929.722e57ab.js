@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[7755],{18584:s=>{s.exports=JSON.parse('{"permalink":"/blog/tags/system-design","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

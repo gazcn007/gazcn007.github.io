@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[7086],{82459:c=>{c.exports=JSON.parse('{"label":"Economics","permalink":"/blog/tags/economics","allTagsPath":"/blog/tags","count":1}')}}]);

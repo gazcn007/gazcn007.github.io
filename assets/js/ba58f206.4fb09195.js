@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[137],{12301:a=>{a.exports=JSON.parse('{"label":"Travel","permalink":"/blog/tags/travel","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[2104],{6460:a=>{a.exports=JSON.parse('{"label":"Data Analytics","permalink":"/blog/tags/data-analytics","allTagsPath":"/blog/tags","count":1}')}}]);

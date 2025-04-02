@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[9068],{48278:a=>{a.exports=JSON.parse('{"label":"Frontend","permalink":"/blog/tags/frontend","allTagsPath":"/blog/tags","count":1}')}}]);
