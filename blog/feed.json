@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Carl’s Tech Journal Blog",
+    "title": "Carl's Tech Journal Blog",
     "home_page_url": "https://carlrocks.com/blog",
-    "description": "Carl’s Tech Journal Blog",
+    "description": "Carl's Tech Journal Blog",
     "items": [
         {
             "id": "https://carlrocks.com/blog/2025/StanfordSOP",
