@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarlrocks_com=self.webpackChunkcarlrocks_com||[]).push([[3596],{98610:a=>{a.exports=JSON.parse('{"label":"Critical Thinking","permalink":"/blog/tags/critical-thinking","allTagsPath":"/blog/tags","count":1}')}}]);
